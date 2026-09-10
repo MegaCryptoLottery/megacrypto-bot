@@ -1,0 +1,14 @@
+{
+  "name": "megacrypto-telegram-bot",
+  "version": "1.0.0",
+  "description": "Bot multi-redes MegaCrypto",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.0",
+    "node-fetch": "^3.3.2"
+  }
+}
